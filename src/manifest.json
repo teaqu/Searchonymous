@@ -1,13 +1,13 @@
 {
-	"manifest_version": 2,
-	"name": "Searchonymous",
-	"version": "1.1.1",
+	"manifest_version": 3,
+	"name": "Searchonymous Teaqu",
+	"version": "1.1.2",
 	"description": "__MSG_appDesc__",
 	"default_locale": "en",
 	"homepage_url": "https://github.com/MorbZ/Searchonymous",
 	"applications": {
 		"gecko": {
-			"id": "jid1-WF1v8esuNM9pRg@jetpack"
+			"id": "teaqu@jetpack"
 		}
 	},
 	"icons": {
